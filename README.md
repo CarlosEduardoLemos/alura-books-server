@@ -69,14 +69,28 @@ Cada tópico será abordado em aulas práticas, com exemplos e exercícios para 
 
 ## Instruções de Uso
 
-1. Clone o repositório [https://github.com/CarlosEduardoLemos/reactnode](https://github.com/CarlosEduardoLemos/reactnode) em sua máquina local para obter a parte frontend do projeto.
-2. Clone o repositório [https://github.com/CarlosEduardoLemos/alura-books-server](https://github.com/CarlosEduardoLemos/alura-books-server) em sua máquina local para obter a parte backend do projeto.
-3. Certifique-se de ter o Node.js instalado em sua máquina. Você pode verificar a instalação digitando `node -v` no terminal. Caso o Node.js não esteja instalado, você pode baixá-lo e instalá-lo a partir do site oficial: [https://nodejs.org/](https://nodejs.org/).
+1. Clone o repositório frontend:
+```bash
+git clone https://github.com/CarlosEduardoLemos/reactnode
+```
+2. Clone o repositório backend:
+```bash
+git clone https://github.com/CarlosEduardoLemos/alura-books-server
+```
+3. Certifique-se de ter o Node.js instalado em sua máquina. Verifique a instalação digitando no terminal:
+```bash
+node -v
+```
+Caso o Node.js não esteja instalado, você pode baixá-lo e instalá-lo a partir do site oficial: [https://nodejs.org/](https://nodejs.org/).
+
 4. Abra cada projeto no seu editor de texto separadamente.
-5. No projeto backend (alura-books-server), execute o comando `npm init` no terminal para criar o arquivo `package.json`. Siga as instruções para configurar as informações do projeto.
-6. Ainda no projeto backend, execute o comando `npm install express` para instalar o framework Express e suas dependências.
-7. Siga as instruções fornecidas nas aulas do curso para desenvolver a API utilizando o framework Express.
-8. Aproveite o curso e não hesite em fazer perguntas ou buscar ajuda se encontrar dificuldades!
+5. No projeto backend (alura-books-server), execute os seguintes comandos no terminal:
+```bash
+npm init
+npm install express
+```
+6. Siga as instruções fornecidas nas aulas do curso para desenvolver a API utilizando o framework Express.
+7. Aproveite o curso e não hesite em fazer perguntas ou buscar ajuda se encontrar dificuldades!
 
 ## Recursos Adicionais
 
