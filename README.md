@@ -34,8 +34,6 @@ Certifique-se de que todas essas dependências estão instaladas e configuradas 
 O Curso de Node.js: continue seu projeto full stack criando uma API com Express abordará os seguintes tópicos:
 
 ### Iniciando o 1º projeto
-- Apresentação
-- Preparando o ambiente
 - Start no projeto
 - Criando uma aplicação Node
 - Olá mundo
