@@ -88,6 +88,7 @@ Caso o Node.js não esteja instalado, você pode baixá-lo e instalá-lo a parti
 ```bash
 npm init
 npm install express
+npm install nodemon
 ```
 6. Siga as instruções fornecidas nas aulas do curso para desenvolver a API utilizando o framework Express.
 7. Aproveite o curso e não hesite em fazer perguntas ou buscar ajuda se encontrar dificuldades!
