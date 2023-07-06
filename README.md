@@ -30,44 +30,40 @@ Também é importante ter o ambiente de desenvolvimento configurado com as segui
 Certifique-se de que todas essas dependências estão instaladas e configuradas corretamente antes de iniciar o curso.
 
 ## Conteúdo do Curso
-
 O Curso de Node.js: continue seu projeto full stack criando uma API com Express abordará os seguintes tópicos:
 
-### Iniciando o 1º projeto
-- Start no projeto
-- Criando uma aplicação Node
-- Olá mundo
-- Para saber mais: conhecendo o Express
+1. Iniciando o 1º projeto:
+   - Nesse tópico, você aprenderá a iniciar um novo projeto e configurar uma aplicação Node.js básica.
+   - Será mostrado um exemplo simples de código "Olá mundo" para verificar se tudo está funcionando corretamente.
+   - Também será fornecida uma introdução ao framework Express, que é amplamente utilizado para construir aplicativos web em Node.js.
 
-### Criando as primeiras rotas
-- Métodos HTTP e rota get
-- Rotas de post, patch e delete
-- Qual método HTTP usar?
-- Status HTTP
-- Controladores
-- Qual status HTTP retornar?
-- Para saber mais: conhecendo mais o protocolo HTTP
+2. Criando as primeiras rotas:
+   - Você aprenderá sobre os diferentes métodos HTTP, como GET, POST, PATCH e DELETE, e como criar rotas para cada um desses métodos.
+   - Será discutida a escolha apropriada do método HTTP para diferentes tipos de solicitações.
+   - Também será abordado o uso de códigos de status HTTP para indicar o resultado de uma requisição.
+   - O conceito de controladores será introduzido para ajudar na modularização do código.
 
-### JSON para armazenar dados
-- Acessando arquivos com Node
-- Get de dados em arquivos
-- Como acessar dados em arquivos?
-- Criando serviços
-- Para saber mais: o que é banco de dados?
+3. JSON para armazenar dados:
+   - Neste tópico, você aprenderá a acessar arquivos utilizando o Node.js e obter dados de arquivos JSON.
+   - Será mostrado como recuperar dados de um arquivo utilizando o método GET.
+   - Também será discutido como armazenar e manipular dados em arquivos JSON.
+   - A criação de serviços será abordada para organizar o código relacionado à manipulação de dados.
+   - Haverá uma breve menção sobre bancos de dados para ampliar o conhecimento nessa área.
 
-### Parâmetros nas requisições
-- Lidando com parameters
-- Post a partir do body
-- Acessando params da requisição
-- Patch a partir do body
-- Delete a partir do body
+4. Parâmetros nas requisições:
+   - Aqui, você aprenderá a lidar com parâmetros nas requisições, tanto na URL quanto no corpo da requisição.
+   - Será mostrado como lidar com parâmetros em solicitações POST, enviando dados no corpo da requisição.
+   - Você também aprenderá como acessar e utilizar os parâmetros da requisição.
+   - Será abordada a atualização de dados no corpo da requisição através do método PATCH e a exclusão de dados utilizando o método DELETE.
 
-### Lidando com erros
-- Verificando ID
-- Body incorreto
-- Lidando com dados inválidos
-- Para saber mais: status HTTP
+5. Lidando com erros:
+   - Nesse tópico, você aprenderá a lidar com possíveis erros que podem ocorrer durante o processamento da API.
+   - Será mostrado como verificar a validade de um identificador (ID).
+   - Também será abordado o tratamento de erros relacionados a corpos de requisição incorretos.
+   - Você aprenderá a lidar com dados inválidos fornecidos nas solicitações.
+   - Será fornecida mais informação sobre os códigos de status HTTP para uma melhor compreensão.
 
+Esses são os principais pontos abordados em cada tópico do curso, fornecendo um resumo sucinto sobre o que você aprenderá em cada um deles.
 Cada tópico será abordado em aulas práticas, com exemplos e exercícios para ajudar na compreensão dos conceitos.
 
 
